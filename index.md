@@ -1,8 +1,9 @@
-## Welcome to GitHub Pages
+## My blog
 
-You can use the [editor on GitHub](https://github.com/THEELIMINATION/THEELIMINATION.github.io/edit/master/index.md) to maintain and preview the content for your website in Markdown files.
+Heya, welcome to my blog!
 
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
+Today I'm gonna be critiquing a website recommended to me by many of my teachers. I simply cannot understand how they tolerate this. 
+The website is called "citationmachine" and I have a problem with this messy unorganized piece of... crap.
 
 ### Markdown
 
