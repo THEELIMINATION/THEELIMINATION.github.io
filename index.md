@@ -9,29 +9,8 @@ The website is called ["citationmachine"](http://www.citationmachine.net) and I 
 
 Let's start out soft. My first major gripe with this site is the lack of HTTPS in 2019. 
 We're living in a time where you can charge your phone without wires, where you can play incredible things—even in VR—on your phone!
-So someone please, please _please_ tell me why in the world you haven't secured your wbesite. It's cheap and easy.
+So someone please, please _please_ tell me why in the world you haven't secured your website. It's cheap and easy.
 HSTS and HTTPS are an absolute must in 2019. I cannot fathom what 10 year old computer running Ubuntu 12.04.1 is hosting this trash.
-
-
-```markdown
-Syntax highlighted code block
-
-# Header 1
-## Header 2
-### Header 3
-
-- Bulleted
-- List
-
-1. Numbered
-2. List
-
-**Bold** and _Italic_ and `Code` text
-
-[Link](url) and ![Image](src)
-```
-
-For more details see [GitHub Flavored Markdown](https://guides.github.com/features/mastering-markdown/).
 
 ### UX/UI
 
